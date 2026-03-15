@@ -1,16 +1,19 @@
-# terminal-setup
+# Terminal Setup Example
 
-## Overview
-This repository provides a simple example of setting up a terminal environment for various tasks. It includes configurations and scripts to streamline workflow.
+## Introduction
+This repository contains a simple example of how to set up a terminal environment.
 
 ## Features
-- Basic terminal configurations
-- Sample scripts for automation
+- Step-by-step guide for terminal setup
+- Custom configurations for various shells
+
+## Technology Stack
+- Shell scripting
+- Configuration files for bash, zsh, etc.
 
 ## Usage
-1. Clone the repository
-2. Follow the instructions in the setup scripts
+1. Clone the repository.
+2. Follow the setup instructions in the README.
 
 ## Future Plans
-- Add more advanced configurations
-- Include user customization options
+- Add more examples for different terminal environments.
